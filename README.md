@@ -1,5 +1,12 @@
 # Information till Daniel
 
+## Innehållsförteckning
+
+- [Lägga till nya produkter](#lägga-till-nya-produkter)
+- [Konfiguration](#konfiguration)
+- [Användning](#användning)
+- [Felsökning](#felsökning)
+
 ## Lägga till nya produkter
 
 ### Produktinformation
@@ -35,4 +42,4 @@ Vill du lägga till fler produkter? Klicka på
 8. Klicka på **Slutför planering**
 9. Fyll i saldo för att produkter under _INV.ANTAL_
 10. Bocka för _Klar för lagerjustering och lagerbokföring_ och klicka på
-    **Spara**
+    **Spara**a
