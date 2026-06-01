@@ -3,6 +3,7 @@
 ## Innehållsförteckning
 
 - [Lägga till nya produkter](#lägga-till-nya-produkter)
+- [Redigera produkt](#redigera-produkt)
 - [Hantera beställningar](#hantera-beställningar)
 
 ## Lägga till nya produkter
@@ -43,3 +44,5 @@ Vill du lägga till fler produkter? Klicka på
     **Spara**a
 
 ## Hantera beställningar
+
+## Redigera produkt
