@@ -3,9 +3,7 @@
 ## Innehållsförteckning
 
 - [Lägga till nya produkter](#lägga-till-nya-produkter)
-- [Konfiguration](#konfiguration)
-- [Användning](#användning)
-- [Felsökning](#felsökning)
+- [Hantera beställningar](#hantera-beställningar)
 
 ## Lägga till nya produkter
 
@@ -43,3 +41,5 @@ Vill du lägga till fler produkter? Klicka på
 9. Fyll i saldo för att produkter under _INV.ANTAL_
 10. Bocka för _Klar för lagerjustering och lagerbokföring_ och klicka på
     **Spara**a
+
+## Hantera beställningar
