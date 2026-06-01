@@ -5,7 +5,8 @@
 ### Produktinformation
 
 1. Öppna denna
-   [länk](https://oavsett.se/wp-admin/post-new.php?post_type=product)
+   [länk](https://oavsett.se/wp-admin/post-new.php?post_type=product) Tips: Håll
+   in CTRL när du klickar så öppnas en ny flik
 2. Skriv titel och beskrivande text till produkten
 3. Lägg till eventuella bilder
 4. Klicka på **Publicera**
@@ -32,5 +33,6 @@ Vill du lägga till fler produkter? Klicka på
 6. Klicka på **Lägg till att inventera**
 7. Klicka på **Tillbaka**
 8. Klicka på **Slutför planering**
-9. Fyll i saldo för att produkter under *INV.ANTAL* 
-10. Bocka för *Klar för lagerjustering och lagerbokföring* och klicka på **Spara**
+9. Fyll i saldo för att produkter under _INV.ANTAL_
+10. Bocka för _Klar för lagerjustering och lagerbokföring_ och klicka på
+    **Spara**
