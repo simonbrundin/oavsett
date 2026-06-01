@@ -19,5 +19,18 @@ Vill du lägga till fler produkter? Klicka på
 1. Öppna Fortnox och gå till Lager
 2. Klicka på ikonen längst till höger om produkten - Finns inte produkten, vänta
    en stund och uppdatera sidan
-3.
-4. Fyll i lagersaldo 10.
+3. Fyll i priset i **Prislista A**
+4. Klicka på **Lageruppgifter** och fyll i Kalkylkostnad
+
+### Lagerinformation
+
+1. Öppna Fortnox och gå till Lager
+2. Klicka på **Inventeringar** och sedan _Skapa inventering_
+3. Fyll i Benämning, Ansvarig och Datum
+4. Klicka på **Lägg till/ta bort artiklar**
+5. Markera alla artiklar du vill ändra saldo på
+6. Klicka på **Lägg till att inventera**
+7. Klicka på **Tillbaka**
+8. Klicka på **Slutför planering**
+9. Fyll i saldo för att produkter under *INV.ANTAL* 
+10. Bocka för *Klar för lagerjustering och lagerbokföring* och klicka på **Spara**
